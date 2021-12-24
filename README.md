@@ -9,3 +9,4 @@
 ###
 
 심화반 수업대비 코드
+https://davey.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Python-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%B0%A9%EB%B2%95
